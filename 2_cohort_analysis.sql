@@ -9,3 +9,4 @@ WHERE
 	ca.orderdate = ca.first_purchase_yr 
 GROUP BY
 	ca.cohort_yr 
+LIMIT 30;
