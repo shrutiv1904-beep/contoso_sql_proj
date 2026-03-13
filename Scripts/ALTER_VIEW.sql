@@ -1,0 +1,1 @@
+ALTER VIEW cohort_analysis RENAME COLUMN count TO num_orders
